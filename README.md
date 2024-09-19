@@ -1,6 +1,6 @@
 # Projeto_Bank_Java
 
-!Java
+Java
 
 ## Descrição
 Projeto_Bank_Java é um sistema de banco desenvolvido em Java. Este projeto tem como objetivo simular operações bancárias básicas, como criação de contas, depósitos, saques e transferências entre contas.
